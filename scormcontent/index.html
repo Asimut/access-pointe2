@@ -502,7 +502,8 @@
 }
 @media(max-width:500px){
   .noOutline.modal {
-      max-width: 80%;
+      max-width: 95%;
+    width:95%;
   }
 }
 .modal .close-modal.icon-remove {
@@ -840,6 +841,21 @@ opacity: 1;
 .block-attachment:hover {
     border-color: #d50054;
     background-color: #FAF4F5;
+}
+  
+@media screen and (max-width:760px){
+  .block-attachment{
+    padding: 15px;
+  }  
+  .block-attachment__main {
+      max-width: 90%;
+      flex: 0 0 90%;
+  }
+  .block-attachment__info {
+      padding-left: 15px;
+      flex: 0 0 75%;
+      max-width: 75%;
+  }
 }
 
 @media(max-width: 44.9375em){
