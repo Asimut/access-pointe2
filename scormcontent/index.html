@@ -928,11 +928,19 @@ opacity: 1;
   
   
 /* Nav icons */
+.lesson-link{
+  padding-left: 60px;
+  padding-right: 26px;
+}
 .lesson-lists__item:first-child .lesson-lists__item:first-child .lesson-link__icon,
 .lesson-lists__item:nth-child(2) .lesson-lists__item:first-child .lesson-link__icon{
-  background-size: 16px;
+  background-size: 25px;
+  top: 50%;
+  transform: translateY(-50%);
   opacity: .3;
   transition: opacity 300ms ease-in-out;
+  width: 25px;
+  height: 25px;
 }
 .lesson-lists__item:first-child .lesson-lists__item:first-child .lesson-link__icon svg,
 .lesson-lists__item:nth-child(2) .lesson-lists__item:first-child .lesson-link__icon svg{
