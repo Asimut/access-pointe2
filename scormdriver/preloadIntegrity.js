@@ -90,3 +90,7 @@ function commitHeartbeat() {
   WriteToDebug('Forced Commit heartbeat trigger is now triggering a commit...');
   CommitData();
 }
+
+function getCourseTitle() {
+  return 'ALT-TEST Presentation for Coding Gurus'
+}

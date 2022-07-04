@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<manifest identifier="Xew3toJZkzilIZyhWsLWfw0NuZ2IOz3RJPH2zjkC" version="1"
+<manifest identifier="ZYQIHRWSisVBGqupMLwJvci_EkQe8c-4Hp6t_dhD" version="1"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -13,10 +13,10 @@
   </metadata>
   <organizations default="articulate_rise">
       <organization identifier="articulate_rise">
-      <title>ALT-TEST Presentation</title>
+      <title>ALT-TEST Presentation for Coding Gurus</title>
       <item identifier="i1" identifierref="r1" isvisible="true">
-        <title>ALT-TEST Presentation</title>
-        <adlcp:datafromlms>eyJjcHYiOiJKUEgyemprQyJ9</adlcp:datafromlms>
+        <title>ALT-TEST Presentation for Coding Gurus</title>
+        <adlcp:datafromlms>eyJjcHYiOiJIcDZ0X2RoRCIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
       </item>
     </organization>
   </organizations>
@@ -50,31 +50,20 @@
       
 
       <!-- RUNTIME CONTENT STUFF -->
-      <file href="scormcontent/lib/fonts/hV5InScG2oTD3mzR-freight_sans_book-webfont.woff" />
-<file href="scormcontent/lib/fonts/ZJYAn55z1BTYrbrW-martelsans-bold-webfont.woff" />
-<file href="scormcontent/lib/fonts/559kgewwuTa55XL0-martelsans-regular-webfont.woff" />
-<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
 <file href="scormcontent/lib/fonts/Lato-Italic.woff" />
 <file href="scormcontent/lib/fonts/Lato-Bold.woff" />
 <file href="scormcontent/lib/fonts/Lato-Regular.woff" />
 <file href="scormcontent/lib/fonts/Lato-Light.woff" />
-<file href="scormcontent/assets/dy4fegES5XeQu6Iq_small.png" />
-<file href="scormcontent/assets/TjrPTYQKUdd03RY-_ZPmBKRlu0OrtPMw2.svg" />
-<file href="scormcontent/assets/UaMIcbfZiy9dqMRM_qGViNfklP870meB-.svg" />
-<file href="scormcontent/assets/Ryb5Y__uMKQjqBEb__AifWyhbbRtO16uv.svg" />
-<file href="scormcontent/assets/yrR1SATAkCoQYYe9_ol4BHhMZDJv0S06F.svg" />
-<file href="scormcontent/assets/aXUweUyVAosFtp9u_fO-WPhTHd_xRae9M.svg" />
-<file href="scormcontent/assets/XPI-rbfZLyHd7QM0_96otLEQOgqhTDISg.svg" />
-<file href="scormcontent/assets/wTC_yWuPtxAHlykm_8EiyNOrakELw8pgF.jpg" />
-<file href="scormcontent/assets/Ef6WVXjCdFTJMJAB_Ouwj_tntK7TrBC_X.svg" />
-<file href="scormcontent/assets/yY9RlIaZYof9Kk49_jiMmqOkc0FXJfDQm.svg" />
-<file href="scormcontent/assets/TS9vMwr9AGMdXGwt_yRELQiZ1ivYLYZPe.svg" />
-<file href="scormcontent/assets/kZpCxSV8NA7T1ybd_8ouq6KkP2TeWvbVF-INGREZZA%20full%20Prescribing%20Information.pdf" />
-<file href="scormcontent/assets/WpyI4gxQQTBtnH6k_2mz7WcT2qYvWrWIw-INGREZZA%20full%20Prescribing%20Information.pdf" />
-<file href="scormcontent/assets/LCdypux2vVkVNVDX_d-RvjPP3OToW8ykO-INGREZZA_full_Prescribing_Information.pdf" />
-<file href="scormcontent/assets/hAyXSrnzpsGiiWYY_coastline_poster.png" />
-<file href="scormcontent/assets/IO6DpaVXnWFY74aS_coastline.mp4" />
-<file href="scormcontent/assets/ES9H_tczGEj301mX_dsUMHx078pOTgiyc.png" />
+<file href="scormcontent/assets/bT4_nD3XxYLhUmPq_small.png" />
+<file href="scormcontent/assets/CaX6ktQ2LyKtB2gT_ZPmBKRlu0OrtPMw2.svg" />
+<file href="scormcontent/assets/LRALYgxoL2GZ--WK_BK7biAe0Q9gDBZ2c.png" />
+<file href="scormcontent/assets/W-LjqJZ5Z417QQWG_Y0NlTFHizycHha3v.png" />
+<file href="scormcontent/assets/WErB2mtzDbIK4POZ__UlOZJ_H0wok6B7l.png" />
+<file href="scormcontent/assets/Ft3a7T-w6uQ1wgqh_8EiyNOrakELw8pgF.jpg" />
+<file href="scormcontent/assets/mVO0u7OtOQz293Fe_paraglide.jpg" />
+<file href="scormcontent/assets/rNBoRK85rWXMX7wX_8ouq6KkP2TeWvbVF-INGREZZA%20full%20Prescribing%20Information.pdf" />
+<file href="scormcontent/assets/HMhoUQM6HBZ4oyss_2mz7WcT2qYvWrWIw-INGREZZA%20full%20Prescribing%20Information.pdf" />
 
     </resource>
   </resources>
